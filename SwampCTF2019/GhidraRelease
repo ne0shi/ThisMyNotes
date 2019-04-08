@@ -1,2 +1,3 @@
-<H1>Ghidra Release Challenge: </H1>
-<p> Taking screenshots of the video: <br> mplayer -vf framestep=60 -framedrop -nosound ghidra_nsa_training.mp4 -speed 100 -vo jpeg:outdir=video </br></p>
+# Ghidra Release Challenge:
+###### Taking screenshots of the video:  
+######mplayer -vf framestep=60 -framedrop -nosound ghidra_nsa_training.mp4 -speed 100 -vo jpeg:outdir=video 
